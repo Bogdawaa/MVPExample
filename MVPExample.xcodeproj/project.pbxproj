@@ -42,9 +42,6 @@
 		F05A201F289C0B0500E630BE = {
 			isa = PBXGroup;
 			children = (
-				F05A2041289C0F4000E630BE /* Presenter */,
-				F05A2040289C0F3800E630BE /* Views */,
-				F05A203F289C0F3300E630BE /* Model */,
 				F05A202A289C0B0500E630BE /* MVPExample */,
 				F05A2029289C0B0500E630BE /* Products */,
 			);
@@ -61,6 +58,9 @@
 		F05A202A289C0B0500E630BE /* MVPExample */ = {
 			isa = PBXGroup;
 			children = (
+				F05A2040289C0F3800E630BE /* Views */,
+				F05A203F289C0F3300E630BE /* Model */,
+				F05A2041289C0F4000E630BE /* Presenter */,
 				F05A202B289C0B0500E630BE /* AppDelegate.swift */,
 				F05A202D289C0B0500E630BE /* SceneDelegate.swift */,
 				F05A2031289C0B0500E630BE /* Main.storyboard */,

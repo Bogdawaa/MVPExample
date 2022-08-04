@@ -7,4 +7,6 @@
 
 import Foundation
 
-class UserPresenter
+class UserPresenter {
+    
+}
